@@ -8,6 +8,7 @@
 - [VictorAugDB](https://github.com/VictorAugDB)
 - [Sergio Garcia](https://github.com/sgarciagallego)
 - [Nancy Chaudhry](https://github.com/chaudhryna)
+- [Tahmid Chowdhury](https://github.com/tahmid-12)
 - [Turry](https://github.com/Oh-Turry)
 - [Kieran Brady] (https://github.com/kb1107)
 - [HirakinAndr](https://github.com/HirakinAndr)
